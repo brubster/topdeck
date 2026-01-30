@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="card.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="2.1481481"
+     inkscape:cx="374.27586"
+     inkscape:cy="167.12069"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#625565;fill-opacity:1;stroke:#2e222f;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3"
+       width="200"
+       height="280"
+       x="2"
+       y="2"
+       ry="16" />
+    <rect
+       style="fill:#374e4a;fill-opacity:1;stroke:#2e222f;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4"
+       width="200"
+       height="272"
+       x="2"
+       y="2"
+       ry="16" />
+    <rect
+       style="fill:#fdcbb0;fill-opacity:1;stroke:#2e222f;stroke-width:4.04436;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5"
+       width="183.95564"
+       height="119.956"
+       x="10.022181"
+       y="146.02219"
+       ry="8" />
+    <rect
+       style="fill:#9babb2;fill-opacity:1;stroke:#2e222f;stroke-width:4.17347;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-3"
+       width="183.82654"
+       height="127.82653"
+       x="10.086734"
+       y="10.086734"
+       ry="8.5248947"
+       inkscape:label="rect2" />
+    <path
+       style="fill:#625565;fill-opacity:1;stroke:#2e222f;stroke-width:3.31199;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.548146,173.656 c 243.132784,0 244.370114,0.42 0,0 z"
+       id="path6"
+       inkscape:export-filename="../src/assets/card/card_front.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:#f79617;fill-opacity:1;stroke:#2e222f;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7"
+       cx="18"
+       cy="272"
+       r="28" />
+    <path
+       id="rect10"
+       style="fill:#e83b3b;stroke:#2e222f;stroke-width:3.99999;stroke-dasharray:none"
+       d="m 179.06511,243.99999 c -4.3633,0 -8.72686,1.67241 -12.07022,5.01823 -6.68678,6.6916 -6.67698,17.45652 0,24.15789 28.35743,28.46093 -0.27355,-0.21353 25.93911,25.95789 l 25.93914,-25.95789 c 6.68675,-6.69161 6.68675,-17.46628 3e-5,-24.15789 -6.6868,-6.69161 -17.4537,-6.69161 -24.14047,0 l -1.7987,1.79998 -1.79868,-1.79998 c -3.34337,-3.34582 -7.7069,-5.01823 -12.07021,-5.01823 z"
+       sodipodi:nodetypes="ssscssscss"
+       inkscape:export-filename="../src/assets/card/card_front.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+  </g>
+</svg>
